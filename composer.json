@@ -1,0 +1,26 @@
+{
+    "name": "nymph/slim4-skeleton",
+    "description": "Slim4 skeleton with some goodie stuff",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ostadomid",
+            "email": "ostadomid2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php-di/php-di": "^6.0",
+        "illuminate/database": "^5.8",
+        "illuminate/events": "^5.8",
+        "lcobucci/jwt": "^3.3",
+        "respect/validation": "^1.1",
+        "twig/twig": "^2.11",
+        "slim/slim": "4.0.0-beta",
+        "nyholm/psr7": "^1.1",
+        "nyholm/psr7-server": "^0.3.0",
+        "slim/http": "^0.7.0",
+        "vlucas/phpdotenv": "^3.4"
+    }
+}
