@@ -9,7 +9,6 @@
             "email": "ostadomid2@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php-di/php-di": "^6.0",
         "illuminate/database": "^5.8",
